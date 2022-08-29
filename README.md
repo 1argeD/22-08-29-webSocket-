@@ -12,7 +12,7 @@
 
 5. Dto만들기 (json에 맞는 dto)
 
-6.chatRoom -> roomID와 nmae, 그리고 session을 관리할 sessions를 갖는다
+6.chatRoom -> roomID와 name, 그리고 session을 관리할 sessions를 갖는다
 
 7. serviceController
 
